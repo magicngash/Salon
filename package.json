@@ -1,0 +1,14 @@
+{
+  "name": "salon-management-dashboard",
+  "version": "1.0.0",
+  "description": "A comprehensive salon management system dashboard",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["salon", "management", "dashboard", "react"],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://yourusername.github.io/salon-dashboard"
+}
